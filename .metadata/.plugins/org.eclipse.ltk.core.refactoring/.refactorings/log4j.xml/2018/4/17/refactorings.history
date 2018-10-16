@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;readme.html&apos; to &apos;com.mkyong.HelloExample.java&apos;&#x0D;&#x0A;- Original project: &apos;log4j.xml&apos;&#x0D;&#x0A;- Destination element: &apos;com.mkyong.HelloExample.java&apos;&#x0D;&#x0A;- Original element: &apos;readme.html&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=HelloLogging/src\/main\/java&lt;com.mkyong{HelloExample.java" element1="readme.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1524934035353" units="0" version="1.0"/>
+</session>

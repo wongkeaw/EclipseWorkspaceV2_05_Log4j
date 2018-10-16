@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\ongOngongPC\EclipseWorkspaceV2_05_Log4j\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\ongOngongPC\EclipseWorkspaceV2_05_Log4j\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1771184177.index
+\spring-mvc-log4j\src\main\java
+C:\Users\ongOngongPC\EclipseWorkspaceV2_05_Log4j\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1464005073.index
+\Log4jAndStruts2Example\src\main\java
